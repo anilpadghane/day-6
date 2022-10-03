@@ -28,7 +28,7 @@ There is no render method used in functional components.</p>
       <p>
 
 In Redux, a reducer is a pure function that takes an action and the previous state of the application and returns the new state. 
-The action describes what happened and it is the reducer's job to return the new state based on that action. (previousState, action) => newState</p>
+The action describes what happened and it is the reducer's job to return the new state based on that action. (previousState, action) newState</p>
 
 <h4>Pure functions can't do any of the following:</h4>
 <ul>
